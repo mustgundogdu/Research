@@ -1,4 +1,4 @@
-                                 KLOG 2.4.1 SERVER OS COMMAND INJECTION VULNERABILITY
+                                 KLOG 2.4.1 SERVER COMMAND INJECTION VULNERABILITY
          
 ![](https://github.com/mustgundogdu/Research/blob/main/KLOG_SERVER/vuln.PNG)
 
