@@ -1,12 +1,12 @@
-###Cross-Origin-Resource-Sharing Vulnerability
+### Cross-Origin-Resource-Sharing Vulnerability
 
 
-#Burp Request On Host
+# Burp Request On Host
 
 ![](https://github.com/mustgundogdu/Research/blob/main/BountyCorsOn----/cors2.PNG)
 
 
 
-#Exploit Of Process
+# Exploit Of Process
 ![](https://github.com/mustgundogdu/Research/blob/main/BountyCorsOn----/cors1.PNG)
 
