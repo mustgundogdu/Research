@@ -7,6 +7,6 @@
 
 
 
-# Exploit Of Process
+# Exploit 
 ![](https://github.com/mustgundogdu/Research/blob/main/BountyCorsOn----/cors1.PNG)
 
