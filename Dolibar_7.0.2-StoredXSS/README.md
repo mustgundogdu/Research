@@ -1,4 +1,4 @@
-
+# Dolibar_7.0.2 Stored XSS (Authenticated)
 #### Path : http://localhost/admin/limits.php
 
 ## Burp Suite Request ##
