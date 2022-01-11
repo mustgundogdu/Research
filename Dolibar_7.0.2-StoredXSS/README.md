@@ -1,4 +1,5 @@
 # Dolibar_7.0.2 Stored XSS (Authenticated)
+## CVE: CVE-2022-22293
 #### Path : http://localhost/admin/limits.php
 
 ## Burp Suite Request ##
