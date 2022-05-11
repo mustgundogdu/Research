@@ -1,6 +1,6 @@
 ## Dolibarr 12.0.5 HTML INJECTION 
 ### Path : http://localhost/user/passwordforgotten.php
-### Payload : '<a href="http://www.unsafe-inline.com/">Click Me</a>'
+### Payload :< a href="http://www.unsafe-inline.com/">Click Me</a>
 ### Paramter : username
 
 
