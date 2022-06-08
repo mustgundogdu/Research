@@ -1,4 +1,4 @@
-## Dolibarr 12.0.5 HTML INJECTION 
+## Dolibarr 12.0.5 HTML INJECTION CVE-2022-30876
 ### Path : http://localhost/user/passwordforgotten.php
 ### Payload : < a href="http://www.unsafe-inline.com/">Click Me</ a>
 ### Parameter : username
