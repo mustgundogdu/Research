@@ -1,4 +1,4 @@
-## Glassfish Server-Side Request Forgery Vulnerability(SSRF)
+## Glassfish Server-Side Request Forgery Vulnerability(SSRF) [Authenticated]
 
 The specified vulnerable parameter (restUrl) causes the SSRF vulnerability. In this way, an attacker can obtain critical and sensitive service information for the system, such as port scanning. Or, he can direct the server information to other resources within the network. 
 
